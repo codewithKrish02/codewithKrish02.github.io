@@ -77,7 +77,6 @@ export default function Home() {
               <p className='text-grey-800 py-1'>AnnonyChat</p>
               <p className='text-grey-800 py-1'>HMS using Django</p>
               <p className='text-grey-800 py-1'>Passwordzz</p>
-              <p className='text-grey-800 py-1'>FoodMan</p>
             </div>
             <div className='text-center shadow-lg p-10 rounded-xl my-10'>
               <Image src={contents} width={100} height={100} className='relative mx-auto'/>
