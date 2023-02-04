@@ -7,7 +7,10 @@ import krish from "../public/teja.png";
 import design from '../public/design.png';
 import code from '../public/code.png';
 import contents from '../public/content.png';
-import p1 from '../public/pic1.png'
+import p1 from '../public/pic1.png';
+import pass from '../public/passwordz.png';
+import hms from '../public/hms.png';
+import iksa from '../public/iksa.png';
 
 export default function Home() {
   return (
@@ -90,13 +93,15 @@ export default function Home() {
             </div>
           </div>
           <div>
-            <h3 className='text-3xl py-1'>Portfolio</h3>
+            <h3 className='text-3xl py-1'>Project Showcase</h3>
           </div>
           <div className='flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap'>
             {/* for images */}
             <div className='basis-1/3 flex-1'>
               <Image src={p1} className='rounded-lg object-cover' width={'100%'} height={'100%'} layout='responsive'/>
-
+              <Image src={pass} className='rounded-lg object-cover' width={'100%'} height={'100%'} layout='responsive'/>
+              <Image src={hms} className='rounded-lg object-cover' width={'100%'} height={'100%'} layout='responsive'/>
+              <Image src={iksa} className='rounded-lg object-cover' width={'100%'} height={'100%'} layout='responsive'/>
             </div>
           </div>
           
