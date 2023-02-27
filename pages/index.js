@@ -102,7 +102,6 @@ export default function Home() {
               <Image src={p1} className='rounded-lg object-cover' width={'100%'} height={'100%'} layout='responsive'/>
               <Image src={pass} className='rounded-lg object-cover' width={'100%'} height={'100%'} layout='responsive'/>
               <Image src={hms} className='rounded-lg object-cover' width={'100%'} height={'100%'} layout='responsive'/>
-//               <Image src={iksa} className='rounded-lg object-cover' width={'100%'} height={'100%'} layout='responsive'/>
             </div>
           </div>
           
