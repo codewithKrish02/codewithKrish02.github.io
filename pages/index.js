@@ -54,7 +54,7 @@ export default function Home() {
           <div>
             <h3 className='text-3xl py-1'>About</h3>
             <p className='text-md py-2 leading-8 text-grey-800'>Since the beginning of my journey as a Developer,
-             I have learn many frameworks and languages.
+             I have learnt many frameworks and languages.
              I worked as a Intern in <span className='text-teal-500'>NetApp,Inc - India</span>. 
              I completed my Master's degree in <span className='text-teal-500'>Software Engineering</span>
               from Vellore Institute of Technology in India and am now pursuing a Master's in 
